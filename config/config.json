@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "sequelize_exercise_b5s9_user",
+    "password": "p8Sgp4hNbvh8cNnQN7ehxGtO5A81ft8a",
+    "database": "sequelize_exercise_b5s9",
+    "host": "dpg-ct83ub1u0jms73auh3eg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sequelize_exercise_b5s9_user",
+    "password": "p8Sgp4hNbvh8cNnQN7ehxGtO5A81ft8a",
+    "database": "sequelize_exercise_b5s9",
+    "host": "dpg-ct83ub1u0jms73auh3eg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
